@@ -1,5 +1,5 @@
 {
-  "name": "picture-voting-game",
+  "name": "psych-you-out",
   "version": "0.0.1",
   "description": "This is a simple picture voting game with node.js",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "picture",
     "voting"
   ],
-  "author": "Martin Angelov",
+  "author": "Jacob McCormick",
   "license": "MIT",
   "dependencies": {
     "express": "~3.4.7",
